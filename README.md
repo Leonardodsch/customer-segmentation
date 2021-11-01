@@ -47,5 +47,14 @@ O conjunto de dados inclui as seguintes informações:
 - **PRCFULLPAYMENT**: Porcentagem do pagamento total pago pelo usuário 
 - **TENURE**: Posse do serviço de cartão de crédito para o usuário 
 
+## Planejamento da Solução
+
+## Melhores Insights
+
+## Machine Learning Models
+
+## Resultados 
+
+## Conclusão
 
 
